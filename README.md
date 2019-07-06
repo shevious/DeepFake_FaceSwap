@@ -16,9 +16,11 @@ TBA
 
 WIP
 
-## What id DeepFakes?
+## What is a DeepFake?
 
-Deepfake is implemented as an autoencoder.
+At their core, deepfakes are simply a series of image frames generated through the use of autoencoders, or networks designed to downsample and restore images.
+
+
 The face of the actor 1 is cropped and aligned to his face. Then the autoencoder learns how to encode and decode (reconstruct) the face. The goal here is to minimize the reconstruction error.
 
 ![](image/encoder1.JPG?raw=true)
