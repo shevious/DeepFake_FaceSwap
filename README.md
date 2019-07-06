@@ -1,30 +1,20 @@
 # swap-face
 
-This is a complete guide for the swap-face algorithm known as deepFakes. Based on Ovalery16's implementation, optimized for faster speed given the low resolution ofthe images.
+This is a code respoitory for GradientCrescent's tutorial on the generation of a simple DeepFake, known as a Face-Swap. Based on Ovalery16's implementation, optimized for faster speed given the low resolution of the source images.
 
-## Why this project?
 
-The goal of this project is education purpose. The deepFakes project got viral on the internet (with all the moral implication that come with it), but very few people really understand how it works. In fact, it is relatively simple>
-
-The youtube video about deepfake made by Siraj Raval also gives a good insight about deepfakes, and I invite you to check its video.
-
-## Coding Challenge
-
-The coding challenge presented in deepFakes by Siraj Raval.
-
-This coding challenge is to train a swap-face algorithm.
-
-The submission files are the three Ipython Notebooks: 
+## Structure
+The are three Ipython Notebooks in this repository: 
 
 	1. Training data generation.ipynb
 	2. Train.ipynb
 	3. Prediction.ipynb
 
-## James bond swapping-face
+## Dataset
 
-I was born in 1988. So for me, James Bond has always been Pierce Brosnan (even Daniel Craig doesn't play that bad). As a result, today we will learn how to train a network that swap the face of Daniel Craig and replace it by Pierce Brosnan. The result can be seen below.
+TBA
 
-![](image/jamesSwap.png?raw=true)
+WIP
 
 ## What id DeepFakes?
 
