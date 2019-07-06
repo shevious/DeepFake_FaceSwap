@@ -1,6 +1,6 @@
-# swap-face
+# DeepFake 101: Face Swap
 
-This is a code respoitory for GradientCrescent's tutorial on the generation of a simple DeepFake, known as a Face-Swap. Based on Ovalery16's implementation, optimized for faster speed given the low resolution of the source images.
+This is a code respoitory for GradientCrescent's tutorial on the generation of a simple DeepFake, known as a Face-Swap. Based on Ovalery16's excellent implementation, optimized for faster speed given the low resolution of the source images.
 
 
 ## Structure
@@ -84,14 +84,3 @@ Input            |  Output
 ![](/image/Casino-Royale-Eva-Green-Daniel-Craig.jpg?raw=true)  |  ![](/image/Casino-Royale-Eva-Green-Daniel-Craig_v2.jpg?raw=true)
 ![](/image/james-bond-casino-royale.jpg?raw=true)  |  ![](/image/james-bond-casino-royale_v2.jpg?raw=true)
 
-## Moral implications
-
-The goal of this project is education purpose. With AI area, it becomes easy for anyone to fake video, pictures, and news. As someone smart said one day: "With great power comes great responsibility".
-
-## Additional discussions
-
-Autoencoder is great tool for producing images which respect the probability distribution of the original ones. However, I believe that Generative Adversarial Networks (such as cycle-gan) remains a great way to train autoencoder, and surpass the generation capability of standard autoencoder.
-
-## Notes
-
-This tutorial aims to help other to understand the value of DeepFakes algorithm. However, if you have additional questions, feel free to open an issue. I want to make this guide as complete as possible and I will add to it any of your comment that would make it more understandable and detailled.
