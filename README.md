@@ -1,6 +1,6 @@
 # swap-face
 
-This is a complete guide for the swap-face algorithm known as deepFakes. 
+This is a complete guide for the swap-face algorithm known as deepFakes. Based on Ovalery16's implementation, optimized for faster speed given the low resolution ofthe images.
 
 ## Why this project?
 
