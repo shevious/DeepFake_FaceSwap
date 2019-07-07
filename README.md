@@ -1,14 +1,13 @@
 # DeepFake 101: Face Swap
 
-This is a code respoitory for GradientCrescent's tutorial on the generation of a simple DeepFake, known as a Face-Swap. Based on Ovalery16's implementation of Shoanlu's original DeepFake FaceSwap prject, optimized for Google Colaboratory and improved computational speed given the low resolution of possible source images.
-
+This is a code repository for GradientCrescent's tutorial on the generation of a simple DeepFake, known as a Face-Swap. Based on Ovalery16's implementation of Shoanlu's original DeepFake FaceSwap prject, we've optimized for Google Colaboratory as a stand-alone module, aiming for maximum intutiveness, user-friendliness, and overall computational speed.
 
 ## Structure
 The are three Ipython Notebooks in this repository: 
 
-	1. Training data generation.ipynb
-	2. Train.ipynb
-	3. Prediction.ipynb
+	1. Data Preprocessing.ipynb
+	2. Training.ipynb
+	3. Generation.ipynb
 
 ## Dataset
 
