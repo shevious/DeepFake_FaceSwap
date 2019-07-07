@@ -1,6 +1,6 @@
 # DeepFake 101: Face Swap
 
-This is a code respoitory for GradientCrescent's tutorial on the generation of a simple DeepFake, known as a Face-Swap. Based on Ovalery16's excellent implementation, optimized for faster speed given the low resolution of the source images.
+This is a code respoitory for GradientCrescent's tutorial on the generation of a simple DeepFake, known as a Face-Swap. Based on Ovalery16's implementation, optimized for Google Colaboratory and improved computational speed given the low resolution of possible source images.
 
 
 ## Structure
