@@ -2,7 +2,7 @@
 
 This is a code repository for GradientCrescent's tutorial on the generation of a simple DeepFake, known as a Face-Swap. Based on Ovalery16's implementation of Shaoanlu's original DeepFake FaceSwap-GAN project, we've optimized the code into stand-alone modules for Google Colaboratory, aiming for maximum intutiveness, user-friendliness, and overall computational speed.
 
-Detailed tutorial to be released on GradientCrescent available here
+Detailed tutorial, "Deepfaking Nicolas Cage into the MCU using Autoencoders: An Implementation in Keras and Tensorflow", available on GradientCrescent at the following address:
 
 https://medium.com/gradientcrescent/deepfaking-nicolas-cage-into-the-mcu-using-autoencoders-an-implementation-in-keras-and-tensorflow-ab47792a042f
 
