@@ -2,7 +2,9 @@
 
 This is a code repository for GradientCrescent's tutorial on the generation of a simple DeepFake, known as a Face-Swap. Based on Ovalery16's implementation of Shaoanlu's original DeepFake FaceSwap-GAN project, we've optimized the code into stand-alone modules for Google Colaboratory, aiming for maximum intutiveness, user-friendliness, and overall computational speed.
 
-Detailed tutorial to be released on GradientCrescent in due course.
+Detailed tutorial to be released on GradientCrescent available here
+
+https://medium.com/gradientcrescent/deepfaking-nicolas-cage-into-the-mcu-using-autoencoders-an-implementation-in-keras-and-tensorflow-ab47792a042f
 
 ## Structure
 The are three Ipython Notebooks in this repository: 
@@ -13,9 +15,11 @@ The are three Ipython Notebooks in this repository:
 
 ## Dataset
 
-TBA
+500 web-scraped images of Nicolas Cage, Tom Holland, and Chris Hemsworth from Google Image Search, using the "Large" image filter setting. Generally, performance improves with larger datasets, as a wider range of expressions can be covered. The use of a batch downloading addon is recommended to facilitate ease of data gathering.
 
-WIP
+
+
+
 
 
 
