@@ -2,7 +2,7 @@
 
 This is a code repository for GradientCrescent's tutorial on the generation of a simple DeepFake, known as a Face-Swap. Based on Ovalery16's implementation of Shaoanlu's original DeepFake FaceSwap-GAN project, we've optimized the code into stand-alone modules for Google Colaboratory, aiming for maximum intutiveness, user-friendliness, and overall computational speed.
 
-Detailed tutorial, "Deepfaking Nicolas Cage into the MCU using Autoencoders: An Implementation in Keras and Tensorflow", available on [GradientCrescent](https://medium.com/gradientcrescent/deepfaking-nicolas-cage-into-the-mcu-using-autoencoders-an-implementation-in-keras-and-tensorflow-ab47792a042f).
+Detailed tutorial, "Into the Cageverse — Deepfaking with Autoencoders: An Implementation in Keras and Tensorflow", available on [GradientCrescent](https://medium.com/gradientcrescent/deepfaking-nicolas-cage-into-the-mcu-using-autoencoders-an-implementation-in-keras-and-tensorflow-ab47792a042f).
 
 
 ## Structure
@@ -22,7 +22,7 @@ Given a reference and a target set of facial images, we can train a pair of auto
 
 To generate a deepfake, the encoded representation of the target is fed into the decoder of the reference, resulting in the generation of an output featuring the reference’s likeness but with the characteristics of the target.
 
-## Results
+## Results (Reference: Nicolas Cage)
 
 </p>
 <p align="center">
