@@ -26,7 +26,7 @@ To generate a deepfake, the encoded representation of the target is fed into the
 
 </p>
 <p align="center">
-  <img src="https://github.com/EXJUSTICE/DeepFake_FaceSwap/blob/master/spider.png">
+  <img src="https://github.com/EXJUSTICE/DeepFake_FaceSwap/blob/master/spider2.png">
 </p>
                                                     
                                                     
@@ -43,7 +43,7 @@ To generate a deepfake, the encoded representation of the target is fed into the
                                                     
                                                     
 <p align="center">
-  <b>MGenerated outputs of Thor together with original input (left), after 40, 70, and 90 epochs.</b><br>
+  <b>Generated outputs of Thor together with original input (left), after 40, 70, and 90 epochs.</b><br>
  
 </p>
 
